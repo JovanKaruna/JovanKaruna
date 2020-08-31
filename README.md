@@ -16,7 +16,7 @@ I'm [Jovan Karuna Cahyadi](https://jovankaruna.netlify.app), currently studying 
 | Graphics and Artificial Intelligence Laboratory Assistant | Assistant | [Institut Teknologi Bandung](https://www.linkedin.com/school/itb/) | N/A | August 2020 - present |
 | Web Development Staff | Volunteer | [AIChE Indonesia Student Conference 2021](https://www.linkedin.com/company/aisc2021/) | N/A | July 2020 - present|
 | Back End Engineer | Internship | [Eduka System](https://www.linkedin.com/company/edukasystem/) | 3 months | June 2020 - August 2020 |
-| Practicum Assistant Computing | Assistant | [Comlabs - ITB](https://www.linkedin.com/company/comlabs-usdi-itb/) | 5 month | August 2019 - December 2019 |
+| Practicum Assistant of Introduction to Information Technology | Assistant | [Comlabs - ITB](https://www.linkedin.com/company/comlabs-usdi-itb/) | 5 month | August 2019 - December 2019 |
 
 
 ## ⚡ More Info
