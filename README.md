@@ -1,5 +1,5 @@
 ## 💬 Introduction
-I'm [Jovan Karuna Cahyadi](jovankaruna.netlify.app), currently studying at ITB as an Informatics Engineering undergraduate of year 2018. I am eager to learn in computer science and data science. Get in touch with me!
+I'm [Jovan Karuna Cahyadi](https://jovankaruna.netlify.app), currently studying at ITB as an Informatics Engineering undergraduate of year 2018. I am eager to learn in computer science and data science. Get in touch with me!
 
 ## 🌱 Featured Projects
 | Project | Short Description | Language and Stack Used |
@@ -8,7 +8,7 @@ I'm [Jovan Karuna Cahyadi](jovankaruna.netlify.app), currently studying at ITB a
 |🔍 [Keyword Extractor](https://github.com/JovanKaruna/Corona_Information_Extractor)                  | Simple Website        | Python Flask + bootstrap |
 |📐 [Convex Hull Finder](https://github.com/JovanKaruna/Convex-Hull-BruteForce)                       | Desktop App           | Java                     |
 |🐍 [Snake Game Solver](https://github.com/JovanKaruna/SnakeGameSolver)                               | Game Solver with GUI  | Python                   |
-|😎 [Personal Website](jovankaruna.netlify.app)                                                       | Simple Website        | Pure HTML & CSS          |
+|😎 [Personal Website](https://jovankaruna.netlify.app)                                               | Simple Website        | Pure HTML & CSS          |
 
 ## 💼 Experience
 | Roles | Type | Location | Duration | From-Until |
