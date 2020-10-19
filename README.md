@@ -18,6 +18,10 @@ I'm [Jovan Karuna Cahyadi](https://jovankaruna.netlify.app), currently studying 
 | Back End Engineer | Internship | [Eduka System](https://www.linkedin.com/company/edukasystem/) | 3 months | June 2020 - August 2020 |
 | Practicum Assistant of Introduction to Information Technology | Assistant | [Comlabs - ITB](https://www.linkedin.com/company/comlabs-usdi-itb/) | 5 month | August 2019 - December 2019 |
 
+## 🏆 Awards
+| Achievement | Scope | Name | Year | Description |
+|-------------|-------|------|------|-------------|
+| 2nd Place | National | Anforcom Data Mining | 2020 | Data Mining competition held by Undip |
 
 ## ⚡ More Info
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jovankaruna&show_icons=true)
