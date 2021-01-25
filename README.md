@@ -13,6 +13,7 @@ I'm [Jovan Karuna Cahyadi](https://jovankaruna.netlify.app), currently studying 
 ## 💼 Experience
 | Roles | Type | Location | Duration | From-Until |
 |-------------|-------|------|------|-------------|
+| Software Engineer | Internship -> PartTime | [Practisee](https://www.linkedin.com/company/practisee-id/) | N/A | December 2020 - present |
 | Graphics and Artificial Intelligence Laboratory Assistant | Assistant | [Institut Teknologi Bandung](https://www.linkedin.com/school/itb/) | N/A | August 2020 - present |
 | Web Development Staff | Volunteer | [AIChE Indonesia Student Conference 2021](https://www.linkedin.com/company/aisc2021/) | N/A | July 2020 - present|
 | Back End Engineer | Internship | [Eduka System](https://www.linkedin.com/company/edukasystem/) | 3 months | June 2020 - August 2020 |
